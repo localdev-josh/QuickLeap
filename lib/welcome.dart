@@ -191,18 +191,15 @@ class _HomeScreenTopPartState extends State<HomeScreenTopPart> {
                 ),
               ),
             ),
-//            new Text("Hello,"),
 
             SizedBox(height: hp(5),width: 240),
             new Container(
-//              color: Colors.green,
                 height: hp(30),
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
                     Container(
                       width: 240,
-//                    color: Colors.green,
                       child: Row(
                         children: <Widget>[
                           Expanded(
